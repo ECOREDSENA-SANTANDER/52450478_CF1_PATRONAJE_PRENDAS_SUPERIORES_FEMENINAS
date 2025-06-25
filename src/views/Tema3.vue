@@ -16,7 +16,7 @@
         .col-sm-12.col-lg-6.mx-0.px-0
           img(src='@/assets/curso/temas/t3/1.svg', alt='')
         .col-sm-12.col-lg-6.bg-color-16.p-4.mb-cus
-            p.mb-3 La proporción versus el canon hace referencia a cuantas cabezas caben en la altura del cuerpo, para ello es importante precisar: 
+            p.mb-3 La proporción versus el canon hace referencia a cuántas cabezas caben en la altura del cuerpo, para ello es importante precisar: 
             ul.lista-ul--color.mb-0
               li.d-flex
                 i.fas.fa-check-circle.bg-color-11
@@ -162,7 +162,7 @@
                     p.mb-0 Cadera = busto + 4 cm 
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
-                    p.mb-0 Cuello =1/2 busto + 12 cm 
+                    p.mb-0 Cuello = 1/2 busto + 12 cm 
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
                     p.mb-0 Rodilla = 1/4 busto + 24 cm 
@@ -229,7 +229,7 @@
                     p.mb-0 Estatura total: estatura 7ac + 15 cm a 18 cm. Corresponden al canon del niño o medida de cabeza 
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
-                    p.mb-0 Largo de brazo= 4/10 de estatura 7ac
+                    p.mb-0 Largo de  brazo = 4/10 de estatura 7ac
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
                     p.mb-0 Codo = 1/2 de brazo. Esta medida sin tener en cuenta lo que corresponde a la muñeca (menos 5 cm para todas las tallas) 
@@ -351,7 +351,7 @@
                 ul.lista-ul--color.mb-0
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
-                    p.mb-0 Cuello= 2/3 de pecho + 4 cm.
+                    p.mb-0 Cuello = 2/3 de pecho + 4 cm.
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
                     p.mb-0  Cintura/suelo = 7/10 de la estatura 7ac.  
@@ -407,7 +407,7 @@
               td.text-center 40/3 = 13,3 * 2
               td.text-center 26,6
             tr
-              td.text-center Cintura/suelo
+              td.text-center Cintura / suelo
               td.text-center 144/10 = 14,4 * 7
               td.text-center 100,8
             tr

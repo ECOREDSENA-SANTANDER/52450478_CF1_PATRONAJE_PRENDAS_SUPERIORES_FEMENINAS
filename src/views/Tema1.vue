@@ -74,7 +74,7 @@
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img.w-75.m-auto(src='@/assets/curso/temas/t1/7.svg', alt='')
             .col-sm-12.col-lg-10
-                p.mb-0 La biomecánica es la disciplina que estudia los principios mecánicos que regulan el movimiento y la estructura del cuerpo humano. Se centra en analizar las fuerzas internas y externas que actúan sobre el cuerpo, así como la respuesta del sistema musculo esquelético ante dichas fuerzas. Sus aplicaciones abarcan áreas como el diseño de prótesis ortopédicas, el deporte y la rehabilitación.
+                p.mb-0 La biomecánica es la disciplina que estudia los principios mecánicos que regulan el movimiento y la estructura del cuerpo humano. Se centra en analizar las fuerzas internas y externas que actúan sobre el cuerpo, así como la respuesta del sistema musculoesquelético ante dichas fuerzas. Sus aplicaciones abarcan áreas como el diseño de prótesis ortopédicas, el deporte y la rehabilitación.
           .bg-color-3.p-4.br-2
             p.mb-0 La relación entre la anatomía y la biomecánica aplicada al diseño de prendas de vestir se basa en los principios de adaptación y funcionalidad.
 

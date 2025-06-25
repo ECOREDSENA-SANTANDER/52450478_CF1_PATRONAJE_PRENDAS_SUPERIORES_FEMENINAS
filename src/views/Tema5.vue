@@ -141,8 +141,8 @@
                 br
                 | Entretelas
       
-      p.mb-3(data-aos='fade-right') #[b Caracterización de los textiles:] las caracterizaciones de los textiles se organizan en función de su comportamiento, está relacionado con el peso del material, desde su estructura, fluidez, expansión y comprensión, a continuación, se relaciona los aspectos más relevantes de cada una.
-      p.mb-5(data-aos='fade-right') Para profundizar más en relación a como se caracterizan se invita al aprendiz a seguir el siguiente llamado a la acción:
+      p.mb-3(data-aos='fade-right') #[b Caracterización de los textiles:] las caracterizaciones de los textiles se organizan en función de su comportamiento, está relacionado con el peso del material, desde su estructura, fluidez, expansión y comprensión, a continuación, se relacionan los aspectos más relevantes de cada una.
+      p.mb-5(data-aos='fade-right') Para profundizar más en relación de como se caracterizan se invita al aprendiz a seguir el siguiente llamado a la acción:
       .tarjeta.bg-color-12.p-3.mb-0(data-aos='fade-right')
           .row.justify-content-around.align-items-center
             .col-sm-12.col-lg-1.d-none.d-lg-block

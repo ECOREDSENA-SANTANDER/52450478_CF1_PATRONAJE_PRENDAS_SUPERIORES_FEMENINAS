@@ -52,7 +52,7 @@
               .col-2.d-none.d-lg-block
                   img(src="@/assets/curso/temas/t2/4.svg", alt="alt").img100
               .col-sm-12.col-lg-10
-                p.mb-0.fw-bold Los dos tipos de sistemas son utilizados en diferentes áreas y cadenas productivas teniendo en cuenta que algunos estándares están trabajados en medidas diferentes a las que usa oficialmente el país.
+                p.mb-0 Los dos tipos de sistemas son utilizados en diferentes áreas y cadenas productivas teniendo en cuenta que algunos estándares están trabajados en medidas diferentes a las que usa oficialmente el país.
 
 
 
@@ -63,7 +63,7 @@
               p.mb-4 Está representado como número fraccionario A/B, en donde A es el numerador y B el denominador. 
               p.mb-5 El numerador hace referencia a el número de partes que se toman de la unidad y el denominador al número de partes iguales en los que se divide esa unidad.
               .bg-color-3.px-5.py-4.br-3.mb-cus.pcus-4
-                p.mb-0.fw-bold Al sistema ingles también se le llama “sistema de medidas imperial”, especialmente en el entorno de la confección. Sin embargo, la mayoría de los países han adoptado el sistema de medidas decimal comúnmente llamado “sistema universal”, haciendo comunes los procesos de conversión de medidas, donde 1 pulgada corresponde a 2,54 cm.
+                p.mb-0 Al sistema inglés también se le llama “sistema de medidas imperial”, especialmente en el entorno de la confección. Sin embargo, la mayoría de los países han adoptado el sistema de medidas decimal comúnmente llamado “sistema universal”, haciendo comunes los procesos de conversión de medidas, donde 1 pulgada corresponde a 2,54 cm.
             .col-sm-12.col-lg-6
               .bg-color-16.mb-0.p-4
                 .titulo-sexto.color-acento-contenido

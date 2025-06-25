@@ -154,7 +154,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-1 Gamas de mercado - Universos de vestuarios - ocasiones de uso
+                h4.mb-1 Gamas de mercado - universos de vestuarios - ocasiones de uso
                 p.mb-0 Se invita a consultar el video para comprender cómo el vestuario se adapta a diferentes contextos, estilos y funciones, según las ocasiones de uso y las necesidades del mercado.
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=VsTacEciP3k" target="_blank")
