@@ -171,7 +171,8 @@
         .row.justify-content-center.mb-0
           .col-sm-12.col-lg-6
             figure.mb-0
-              img(src='@/assets/curso/temas/t4/7.svg', alt='Representación de la pirámide de la moda, una clasificación de la industria según la calidad y exclusividad de las prendas. Se divide en cinco niveles; alta costura, moda de alta calidad, gama media, mercado de masas, gama baja.')
+              img.mb-1(src='@/assets/curso/temas/t4/7.svg', alt='Representación de la pirámide de la moda, una clasificación de la industria según la calidad y exclusividad de las prendas. Se divide en cinco niveles; alta costura, moda de alta calidad, gama media, mercado de masas, gama baja.')
+              figcaption Fuente: tomado de https://www.lauraerre.com/post/piramide-moda
           .col-sm-12.col-lg-6.d-none.d-lg-block
             figure.mb-0
               img(src='@/assets/curso/temas/t4/8.png', alt='')

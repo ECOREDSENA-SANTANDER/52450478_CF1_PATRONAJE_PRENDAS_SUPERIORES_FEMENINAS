@@ -81,7 +81,7 @@
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Tabla 2.] Fórmulas de medidas deducidas
             .tabla-a.color-acento-contenido.tabla-custom
-              table(alt="Fórmulas de medidas deducidas de pecho, cadera, cintura, estatura, talle, cintura/suelo, largo de brazo, estatura total y base, cada una con su equivalencia de fórmula de deducción.")
+              table(alt="Fórmulas de medidas deducidas de pecho, cadera, cintura, estatura, talle, cintura / suelo, largo de brazo, estatura total y base, cada una con su equivalencia de fórmula de deducción.")
                 thead
                   tr
                     th Parte del cuerpo
@@ -103,7 +103,7 @@
                     td Talle
                     td 3/10 de la estatura 7ac
                   tr
-                    td Cintura/suelo
+                    td Cintura / suelo
                     td 7/10 de la estatura 7ac
                   tr
                     td Largo del brazo
@@ -197,7 +197,7 @@
                     p.mb-0 Largo brazo = 4/10 estatura 7ac 
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
-                    p.mb-0 Cintura/suelo = 7/10 estatura 7ac 
+                    p.mb-0 Cintura / suelo = 7/10 estatura 7ac 
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
                     p.mb-0 Altura de cadera = 2/3 de tiro 
@@ -354,7 +354,7 @@
                     p.mb-0 Cuello = 2/3 de pecho + 4 cm.
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
-                    p.mb-0  Cintura/suelo = 7/10 de la estatura 7ac.  
+                    p.mb-0  Cintura / suelo = 7/10 de la estatura 7ac.  
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-11
                     p.mb-0 Base = pecho + desahogo + costura (desahogo 4 cm y la costura 2 cm).

@@ -23,55 +23,60 @@
         p.mb-0 #[b Tabla 10.] Clasificación de las fibras
       .tabla-a.color-acento-contenido.tabla-custom.mb-5(data-aos='fade-right')
         table(alt="Clasificación las fibras textiles en dos grandes grupos: fibras naturales y fibras químicas, según su origen y composición.")
-            caption Referencia Tabla - El rincón de celeste cielo, (2015)
+          caption Referencia Tabla - El rincón de celeste cielo, (2015)
+          thead
             tr
-              td(rowspan="7").fw-bold.bg-color-20 Fibras naturales
-              td(rowspan="2").fw-bold.bg-color-20 Animales
-              td.bg-color-20 Procedentes de glándulas sedosas
-              td.bg-color-20 Seda, seda salvaje
+              th Fibras textiles
+              th Origen
+              th Subcategoría
+              th Ejemplos
+          tbody
             tr
-              td.bg-color-20 Procedentes de folículos pilosos
-              td.bg-color-20 Pelo de alpaca, angora, buey, caballo, conejo, castor, camello, cachemira, cabra guanaco, llama, nutria, vicuña, yak
+              td(rowspan="7").fw-bold Fibras naturales
+              td(rowspan="2") Animales
+              td Procedentes de glándulas sedosas.
+              td Seda, seda salvaje.
+            tr
+              td Procedentes de folículos pilosos.
+              td Pelo de alpaca, angora, buey, caballo, conejo, castor, camello, cachemira, cabra guanaco, llama, nutria, vicuña, yak.
             // Fibras naturales - Vegetales
             tr
-              td(rowspan="4").fw-bold.bg-color-20 Vegetales
-              td.bg-color-20 Procedentes de las semillas
-              td.bg-color-20 Algodón
+              td(rowspan="4") Vegetales
+              td Procedentes de las semillas.
+              td Algodón.
             tr
-              td.bg-color-20 Procedentes del tallo
-              td.bg-color-20 Lino, cáñamo, yute, ramio
+              td Procedentes del tallo.
+              td Lino, cáñamo, yute, ramio.
             tr
-              td.bg-color-20 Procedentes de la hoja
-              td.bg-color-20 Esparto, sisal
+              td Procedentes de la hoja.
+              td Esparto, sisal.
             tr
-              td.bg-color-20 Procedentes del fruto
-              td.bg-color-20 Coco
-            // Fibras naturales - Minerales
+              td Procedentes del fruto.
+              td Coco.
             tr
-              td.fw-bold.bg-color-20 Minerales
-              td.bg-color-20(colspan="2") Asbestos, fibra de vidrio, fibra de carbono
+              td Minerales
+              td(colspan="2") Asbestos, fibra de vidrio, fibra de carbono.
             tr
-              td(rowspan="7").fw-bold.bg-color-16 Fibras químicas
-              td(rowspan="3").fw-bold.bg-color-16  Artificiales
-              td.bg-color-16 Base proteínica
-              td.bg-color-16 De la caseína de la leche (fibroína), de algas (alginato)
+              td(rowspan="7").fw-bold Fibras químicas
+              td(rowspan="3")  Artificiales
+              td Base proteínica.
+              td De la caseína de la leche (fibroína), de algas (alginato).
             tr
-              td.bg-color-16 Base celulósica
-              td.bg-color-16 Rayones (viscosa, cupro, acetato)
+              td Base celulósica.
+              td Rayones (viscosa, cupro, acetato).
             tr
-              td.bg-color-16 Base metálica
-              td.bg-color-16 Oro, plata, cobre
-            // Fibras químicas - Sintéticas
+              td Base metálica.
+              td Oro, plata, cobre.
             tr
-              td(rowspan="3").fw-bold.bg-color-16 Sintéticas
-              td.bg-color-16 Por polimerización
-              td.bg-color-16 Polivinilo, poliacrílicos
+              td(rowspan="3") Sintéticas
+              td Por polimerización.
+              td Polivinilo, poliacrílicos.
             tr
-              td.bg-color-16 Por condensación
-              td.bg-color-16 Poliéster (tergal), poliamida (#[em nylon])
+              td Por condensación.
+              td Poliéster (tergal), poliamida (#[em nylon]).
             tr
-              td.bg-color-16 Por poliadición
-              td.bg-color-16 Poliuretano, poliespanoes
+              td Por poliadición.
+              td Poliuretano, poliespanoes.
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-10
@@ -99,43 +104,45 @@
         p.mb-0 #[b Tabla 11.] Clasificación de los tejidos
       .tabla-a.color-acento-contenido.tabla-custom.mb-5(data-aos='fade-right')
         table(alt="Tabla con la clasificación de los tejidos en dos grandes grupos: telas tejidas y telas no tejidas. Dentro de las telas tejidas se encuentran los tejidos planos, que incluyen ligamentos fundamentales como tafetán, sarga y raso; ligamentos derivados como esterilla, espina y sarga interrumpida; y otros como dobby, jacquard y afelpados. También se clasifican los tejidos de punto, divididos en tejidos por trama (jersey, lacoste, rib, interlock, piqué) y por urdimbre (tricot y raschell). Por último, las telas no tejidas comprenden materiales como interlones, guatas y entretelas.")
+          caption Referencia Tabla - El rincón de celeste cielo, (2015)
+          thead
             tr
-              td(rowspan="13").fw-bold.bg-color-20.wcus-9 Telas tejidas
+              th Tipo de fibra
+              th Origen
+              th Subcategoría
+              th Ejemplos
+          tbody  
             tr
-              td(rowspan="7").bg-color-20.fw-bold.w-25.text-left.wcus-9 Plano
-              td(rowspan="3").bg-color-20.text-left Ligamentos fundamentales
-              td.bg-color-20.text-left Tafetán
+              td(rowspan="6").fw-bold.wcus-9 Telas tejidas
             tr
-              td.bg-color-20.text-left Sarga (diagonal)
+              td(rowspan="3").w-25.text-left.wcus-9 Plano
+              td.text-left Ligamentos fundamentales.
+              td.text-left • Tafetán #[br]
+                | • Sarga (diagonal)#[br]
+                | • Raso
             tr
-              td.bg-color-20.text-left Raso
-            tr
-              td.bg-color-20.text-left(rowspan="3") Ligamentos derivados
+              td.text-left Ligamentos derivados.
             
-              td.bg-color-20.text-left Esterilla/canastra
+              td.text-left • Esterilla / canastra #[br]
+               | • Espina / espiga #[br]
+               | • Sarga interrumpida #[em (broken twill)]
             tr
-              td.bg-color-20.text-left  Espina/espiga
+              td.text-left.wcus-9 Otros.
+              td.text-left Dobby, jacquard, riso, afelpados, etc
             tr
-              td.bg-color-20.text-left Sarga interrumpida #[em (broken twill)]
-            tr.bg-color-20
-              td.bg-color-20.text-left.wcus-9 Otros
-              td.bg-color-20.text-left Dobby, jacquard, riso, afelpados, etc
+              td(rowspan="2").w-25.text-left.wcus-9 Punto
+              td.text-left Por trama
+              td.text-left • Sencillo (jersey, lacoste) #[br]
+                | •  Doble (rib o resortado, #[em interlock], piqué)
             tr
-              td(rowspan="5").bg-color-20.fw-bold.w-25.text-left.wcus-9 Punto
-              td(rowspan="2").bg-color-20.text-left Por trama
-              td.bg-color-20.text-left Sencillo (jersey, lacoste)
+              td.text-left Por urdimbre
+              td.text-left •  #[em Tricot] #[br]
+                | •  #[em Raschell]
             tr
-              td.bg-color-20.text-left Doble (rib o resortado, #[em interlock], piqué)
-            tr
-              td.bg-color-20.text-left(rowspan="3") Por urdimbre
-            tr 
-              td.bg-color-20.text-left #[em Tricot]
-            tr 
-              td.bg-color-20.text-left #[em Raschell]
-            tr
-              td.bg-color-13.fw-bold.wcus-10 Telas no tejidas
-              td.bg-color-13.text-left.wcus-9(colspan="3")
-                | Interlones
+              td.fw-bold.wcus-10 Telas no tejidas
+              td.text-left No aplica
+              td.text-left No aplica
+              td.text-left.wcus-9
                 br
                 | Guatas
                 br
