@@ -258,7 +258,7 @@
                     tr
                       td.text-center Estatura total
                       td.text-center No aplica
-                      td.text-center 1,70 cm
+                      td.text-center 170 cm
                     tr
                       td.text-center Tórax máximo
                       td.text-center No aplica
@@ -278,7 +278,7 @@
                     tr
                       td.text-center Estatura 7a cervical
                       td.text-center Estatura total - 20 cm
-                      td.text-center 1,50 cm
+                      td.text-center 150 cm
                     tr
                       td.text-center Largo de brazo
                       td.text-center 4/10 de la estatura 7ac
@@ -297,10 +297,10 @@
           thead
             tr
               th Talla
-              th XS/6
-              th S/8
-              th M/10
-              th L/12
+              th XS / 6
+              th S / 8
+              th M / 10
+              th L / 12
               th Incremento
           tbody
             tr
@@ -368,7 +368,7 @@
             tr
               th Talla
               th 6
-              th X6/6
+              th X6 / 6
           tbody
             tr
               td.text-center Tórax máximo

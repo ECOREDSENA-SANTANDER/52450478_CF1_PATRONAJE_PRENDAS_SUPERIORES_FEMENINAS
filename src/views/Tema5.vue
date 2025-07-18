@@ -23,7 +23,7 @@
         p.mb-0 #[b Tabla 10.] Clasificación de las fibras
       .tabla-a.color-acento-contenido.tabla-custom.mb-5(data-aos='fade-right')
         table(alt="Clasificación las fibras textiles en dos grandes grupos: fibras naturales y fibras químicas, según su origen y composición.")
-          caption Referencia Tabla - El rincón de celeste cielo, (2015)
+          caption Fuente: El rincón de celeste cielo, (2015)
           thead
             tr
               th Fibras textiles
@@ -104,7 +104,7 @@
         p.mb-0 #[b Tabla 11.] Clasificación de los tejidos
       .tabla-a.color-acento-contenido.tabla-custom.mb-5(data-aos='fade-right')
         table(alt="Tabla con la clasificación de los tejidos en dos grandes grupos: telas tejidas y telas no tejidas. Dentro de las telas tejidas se encuentran los tejidos planos, que incluyen ligamentos fundamentales como tafetán, sarga y raso; ligamentos derivados como esterilla, espina y sarga interrumpida; y otros como dobby, jacquard y afelpados. También se clasifican los tejidos de punto, divididos en tejidos por trama (jersey, lacoste, rib, interlock, piqué) y por urdimbre (tricot y raschell). Por último, las telas no tejidas comprenden materiales como interlones, guatas y entretelas.")
-          caption Referencia Tabla - El rincón de celeste cielo, (2015)
+          caption Fuente: El rincón de celeste cielo, (2015)
           thead
             tr
               th Tipo de fibra

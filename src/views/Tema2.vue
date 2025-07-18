@@ -93,7 +93,7 @@
                 p.mb-0 #[b Tabla 1.]  Análisis de unidades
               .tabla-a.color-acento-contenido.tabla-custom
                 table(alt="Tabla de análisis de medidas con el nombre de siete unidades de medida, abreviatura de la unidad y la equivalencia numérica.")
-                  caption Fuente: Tomado de https://elblogdedavidprofe.weebly.com/unidad-10.html
+                  caption Fuente: tomado de https://elblogdedavidprofe.weebly.com/unidad-10.html
                   thead
                     tr
                       th.w-25 Nombre
